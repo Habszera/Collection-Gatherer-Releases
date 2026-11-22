@@ -19,7 +19,7 @@ Na primeira vez, o Windows pode mostrar uma tela azul com esse aviso. Isso acont
 
 ### Atualizações
 
-O app se atualiza sozinho. Ao abrir, ele procura uma versão nova e, se houver, baixa em segundo plano. Quando termina, mostra as novidades e pergunta se você quer reiniciar para atualizar. Se você preferir continuar, a atualização é instalada na próxima vez que abrir o app.
+O app se atualiza sozinho. Ao abrir, ele procura uma versão nova e, se houver, baixa em segundo plano. Quando termina, pergunta se você quer reiniciar para atualizar. Se você preferir continuar, a atualização é instalada na próxima vez que abrir o app.
 
 ### Desinstalar
 
