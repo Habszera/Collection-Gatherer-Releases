@@ -2,11 +2,13 @@
 
 **O livro de registros da sua coleção de Magic: The Gathering.**
 
-Collection Gatherer é um aplicativo gratuito para Windows que cataloga cartas de Magic. Para registrar uma carta, basta digitar o código da coleção e o número de coletor impressos nela. O app busca o resto no [Scryfall](https://scryfall.com): nome, tipo, raridade e imagem. Para cada carta você anota estado, acabamento (foil), variação e idioma, e no final salva o livro ou exporta para outros sites.
+Collection Gatherer é um aplicativo gratuito para Windows e Android que cataloga cartas de Magic. Para registrar uma carta, basta digitar o código da coleção e o número de coletor impressos nela. O app busca o resto no [Scryfall](https://scryfall.com): nome, tipo, raridade e imagem. Para cada carta você anota estado, acabamento (foil), variação e idioma, e no final salva o livro ou exporta para outros sites. O livro (`.cgcol`) é o mesmo nos dois apps.
 
-Este repositório guarda só os instaladores.
+Este repositório guarda só os instaladores. Cada versão traz os dois na mesma página.
 
-## Como instalar
+## Windows
+
+### Como instalar
 
 1. Abra a [**última versão**](https://github.com/Habszera/Collection-Gatherer-Releases/releases/latest) e baixe o arquivo **`CollectionGatherer-win.msi`**, em *Assets*.
 2. Dê dois cliques no arquivo baixado e escolha onde instalar. A tela do instalador é em inglês:
@@ -29,6 +31,25 @@ Na barra de baixo, o link **Novidades** mostra o que mudou em cada versão.
 ### Desinstalar
 
 Em *Configurações → Aplicativos → Aplicativos instalados*, procure **Collection Gatherer** e clique em *Desinstalar*. Os livros (`.cgcol`) que você salvou continuam onde você os guardou.
+
+## Android
+
+### Como instalar
+
+1. No celular, abra a [**última versão**](https://github.com/Habszera/Collection-Gatherer-Releases/releases/latest) e baixe o arquivo **`CollectionGatherer-android.apk`**, em *Assets*.
+2. Abra o arquivo baixado. Se o Android pedir, permita que o navegador (ou o gerenciador de arquivos) instale apps desconhecidos e confirme a instalação.
+
+Requisitos: Android 7 ou mais novo e internet para consultar as cartas.
+
+### Atualizações
+
+Ao abrir, o app confere se saiu versão nova. Se houver, aparece um botão **Nova versão** piscando no alto da tela. Ao tocar:
+
+1. O app pergunta se você quer atualizar e só então baixa a atualização. Nada é baixado sem você pedir.
+2. Na primeira vez, o Android pede que você permita que o Collection Gatherer instale apps (*Permitir desta fonte*). Depois disso, toque de novo em **Nova versão**.
+3. Confirme a atualização na tela do Android e abra o app. O livro, os campos de registro e as cartas separadas na Busca avançada continuam lá.
+
+**Instalou um APK antes da versão 1.2.8?** Ele foi assinado com outra chave, e o Android não deixa atualizar por cima. Salve o livro com *Salvar livro como…*, desinstale o app antigo, instale o novo e abra o livro salvo. Depois disso, as atualizações passam a funcionar sozinhas.
 
 ## Créditos
 
