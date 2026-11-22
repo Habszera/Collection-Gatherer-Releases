@@ -19,7 +19,9 @@ Na primeira vez, o Windows pode mostrar uma tela azul com esse aviso. Isso acont
 
 ### Atualizações
 
-O app se atualiza sozinho. Ao abrir, ele procura uma versão nova e, se houver, baixa em segundo plano. Quando termina, pergunta se você quer reiniciar para atualizar. Se você preferir continuar, a atualização é instalada na próxima vez que abrir o app.
+O app se atualiza sozinho. Ao abrir, ele procura uma versão nova e, se houver, baixa em segundo plano. Quando termina, aparece um botão **Nova versão** piscando ao lado do número da versão. Clique nele para atualizar: o app guarda o que estiver aberto (inclusive o livro ainda não salvo), reinicia já atualizado e devolve tudo. Se preferir não atualizar agora, a atualização é instalada na próxima vez que abrir o app.
+
+Na barra de baixo, o link **Novidades** mostra o que mudou em cada versão.
 
 ### Desinstalar
 
