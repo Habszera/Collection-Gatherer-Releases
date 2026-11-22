@@ -8,8 +8,11 @@ Este repositório guarda só os instaladores.
 
 ## Como instalar
 
-1. Abra a [**última versão**](https://github.com/Habszera/Collection-Gatherer-Releases/releases/latest) e baixe o arquivo **`CollectionGatherer-win-Setup.exe`**, em *Assets*.
-2. Dê dois cliques no arquivo baixado. A instalação é automática: não pede senha de administrador, cria atalhos na área de trabalho e no menu Iniciar e já abre o app.
+1. Abra a [**última versão**](https://github.com/Habszera/Collection-Gatherer-Releases/releases/latest) e baixe o arquivo **`CollectionGatherer-win.msi`**, em *Assets*.
+2. Dê dois cliques no arquivo baixado e escolha onde instalar. A tela do instalador é em inglês:
+   - **Install for all users of this machine** (padrão): instala em `C:\Program Files` e serve para todos os usuários do Windows. Pede senha de administrador para instalar e para cada atualização.
+   - **Install just for you**: instala só para o seu usuário, sem pedir senha de administrador.
+3. O instalador cria atalhos na área de trabalho e no menu Iniciar.
 
 Requisitos: Windows 10 ou 11 (64 bits) e internet para consultar as cartas. Não é preciso instalar mais nada.
 
